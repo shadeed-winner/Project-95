@@ -1,0 +1,22 @@
+.body-backgorund {
+    background-image: url("https://www.triptobudapest.hu/wp-content/uploads/2021/05/Green-background-from-Vecteezy.jpg");
+}
+
+body {
+    text-align: center;
+}
+
+img {
+    height: 270px;
+}
+
+#login_box {
+    width: fit-content;
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+}
+
+#user_name {
+    width: 300px;
+}
